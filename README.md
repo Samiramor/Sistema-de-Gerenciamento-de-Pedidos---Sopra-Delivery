@@ -30,8 +30,9 @@ Versionamento via GitHub
 
 ---
 
-📂 Estrutura do Repositório
+📂 Estrutura do Repositório:
 
+TODOS CÓDIGOS RODANDO
 01_criacao_tabelas.sql
 02_inserts.sql
 03_selects.sql
@@ -94,33 +95,6 @@ Remoção segura de registros, respeitando integridade referencial.
 
 ---
 
-▶ Como Executar no SQLiteStudio
-
-1. Abra o banco (soprae_delivery.sqlite) ou crie um novo.
-
-
-2. Pressione Ctrl + E para abrir o editor SQL.
-
-
-3. Abra o script desejado em: Arquivo > Abrir.
-
-
-4. Execute pelo botão verde ▶.
-
-
-5. Execute na ordem:
-
-
-
-01_criacao_tabelas.sql
-02_inserts.sql
-03_selects.sql
-04_updates.sql
-05_deletes.sql
-
-
----
-
 📄 Observações Importantes
 
 O banco está totalmente normalizado até 3FN.
@@ -135,8 +109,8 @@ O arquivo .sqlite pode ser incluído no repositório para facilitar a avaliaçã
 
 ✨ Autora
 
-Samira Moreira
-Projeto desenvolvido para a disciplina de Modelagem de Banco de Dados.
+Samira Rabelo Moreira
+Projeto desenvolvido para a disciplina de Modelagem de Banco de Dados, na faculdade Cruzeiro do Sul, curso Ciência de Dados.
 
 
 ---
